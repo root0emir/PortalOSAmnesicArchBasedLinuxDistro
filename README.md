@@ -16,6 +16,7 @@ Siber saldırıların ve şirketlerin kullanıcı verilerini izleme çabaların�
 Bu işletim sistemi, hız ve güvenlik açısından optimize edilmiştir. Sadece Live Mode'da çalışan Portal OS, kullanıcıların iz bırakmadan internette gezinmelerine olanak tanır. Tüm işlemler RAM'de gerçekleştirildiği için, sistem kapatıldığında veya USB çıkarıldığında tüm veriler silinir.
 
 Portal OS'un Özellikleri:
+
 Arch Tabanlı Bir Dağıtım:
 Arch Linux'un düşük ISO boyutu, hız ve sürekli güncel pacman depoları sayesinde güçlü bir altyapı sunar. Kullanıcılar düzenli olarak güvenlik güncellemelerine erişebilir.
 
@@ -49,6 +50,7 @@ Siber güvenlik uzmanları için gerekli temel araçları pacman depolarından k
 
 Portal OS Debian:
 Debian tabanlı alternatif bir sürüm halen geliştirilme aşamasındadır.
+
 
 Hedef Kitle:
 
