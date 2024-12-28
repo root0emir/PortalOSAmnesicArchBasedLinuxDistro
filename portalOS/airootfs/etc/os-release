@@ -1,0 +1,5 @@
+NAME="Portal OS"
+PRETTY_NAME="Portal OS Arch"
+ID=portal
+BUILD_ID=rolling
+
