@@ -1,6 +1,8 @@
 <h1>Portal Linux Arch - Arch tabanlı gizlilik ve güvenlik odaklı işletim sistemi</h1>
 
 ![Ekran görüntüsü 2024-12-28 191128](https://github.com/user-attachments/assets/76b68373-e609-45da-b605-5ed4194ae401)
+![Ekran görüntüsü 2024-12-28 121855](https://github.com/user-attachments/assets/b4a73785-5469-49a6-a249-800107c0fc30)
+![Ekran görüntüsü 2024-12-29 134415](https://github.com/user-attachments/assets/f0f1f6c3-0a5d-43a1-92a0-c2dff6e8fd27)
 
 <h3>Sürümler</h3>
 
